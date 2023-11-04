@@ -1,4 +1,4 @@
-![Backend_Plan](https://github.com/Hyper-ActiveX/Todo-UserAuth/assets/99456220/fe61d500-b4d2-40f1-a49c-0750a0860ba3)# Todo-UserAuth
+
 
 ## Assignment
 1.In this assignment I have to create full stack MERN application with authetication and after this it should get to the dashboard of my todo.
