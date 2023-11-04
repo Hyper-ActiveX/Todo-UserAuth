@@ -22,20 +22,20 @@ Other required packages.
 # Instruction to setup in your local computer
 
 Commands:
-        `git clone https://github.com/Hyper-ActiveX/Todo-UserAuth.git`
-Than add .env file in backend example
+        `git clone https://github.com/Hyper-ActiveX/Todo-UserAuth.git` 
+Than add .env file in backend example  
         `PORT=4000`
         `MONGODB_URL=mongodb://127.0.0.1:27017/TodoApp`
-        `SECRET=`
-Then follow this command
+        `SECRET=`  
+Then follow this command  
         `cd backend`
         `npm i`
-        `nodemon`
-Then open another terminal
+        `nodemon`  
+Then open another terminal  
         `cd frontend`
         `npm i`
-        `npm start`
-Congretulation you succesfully setup
+        `npm start`  
+Congretulation you succesfully setup  
 
 # Data Flow 
 
