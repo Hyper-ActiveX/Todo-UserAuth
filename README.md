@@ -12,18 +12,18 @@
 3.Title (Title for all the task e.g Sunday)
 4.Tasks ( eg. on Sunday I'll do Interview, Reading time, Online Assesments etc.)
 
-##Technologies (Will be used in it)
-Node.js
-Express.js(node.js Framework)
-Postman
-Mongoose(will connect to MongoDB)
-Other required packages.
+##Technologies (Will be used in it)  
+Node.js  
+Express.js(node.js Framework)  
+Postman  
+Mongoose(will connect to MongoDB)  
+Other required packages.  
 
 # Instruction to setup in your local computer
 
-Commands:
-        `git clone https://github.com/Hyper-ActiveX/Todo-UserAuth.git` 
-Than add .env file in backend example  
+##Commands:  
+        `git clone https://github.com/Hyper-ActiveX/Todo-UserAuth.git`   
+Than add .env file in backend example   
         `PORT=4000`  
         `MONGODB_URL=mongodb://127.0.0.1:27017/TodoApp`  
         `SECRET=`    
