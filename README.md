@@ -12,7 +12,7 @@
 3.Title (Title for all the task e.g Sunday)
 4.Tasks ( eg. on Sunday I'll do Interview, Reading time, Online Assesments etc.)
 
-##Technologies (Will be used in it)  
+## Technologies (Will be used in it)  
 Node.js  
 Express.js(node.js Framework)  
 Postman  
@@ -21,7 +21,7 @@ Other required packages.
 
 # Instruction to setup in your local computer
 
-##Commands:  
+## Commands:  
         `git clone https://github.com/Hyper-ActiveX/Todo-UserAuth.git`   
 Than add .env file in backend example   
         `PORT=4000`  
@@ -44,7 +44,7 @@ Congretulation you succesfully setup
 # Demo Video
 
 
-#Screeen Shots
+# Screeen Shots
 ![Screenshot (1310)](https://github.com/Hyper-ActiveX/Todo-UserAuth/assets/99456220/6ccc574d-e785-42e1-a24e-7dadfabc94a9)
 
 
