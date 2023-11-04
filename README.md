@@ -1,6 +1,6 @@
-# Todo-UserAuth
+![Backend_Plan](https://github.com/Hyper-ActiveX/Todo-UserAuth/assets/99456220/fe61d500-b4d2-40f1-a49c-0750a0860ba3)# Todo-UserAuth
 
-##Assignment
+## Assignment
 1.In this assignment I have to create full stack MERN application with authetication and after this it should get to the dashboard of my todo.
 
 2.Where Schema model will be having:
@@ -19,7 +19,11 @@ Postman
 Mongoose(will connect to MongoDB)
 Other required packages.
 
-#Demo Video
+# Data Flow 
+
+![Backend_Plan](https://github.com/Hyper-ActiveX/Todo-UserAuth/assets/99456220/189dd73a-4927-4572-9d4a-f53ef934691c)
+
+# Demo Video
 
 
 #Screeen Shots
