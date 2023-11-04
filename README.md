@@ -19,6 +19,24 @@ Postman
 Mongoose(will connect to MongoDB)
 Other required packages.
 
+# Instruction to setup in your local computer
+
+Commands
+        git clone https://github.com/Hyper-ActiveX/Todo-UserAuth.git
+Than add .env file in backend example
+        PORT=4000
+        MONGODB_URL=mongodb://127.0.0.1:27017/TodoApp
+        SECRET=
+Then follow this command
+        cd backend
+        npm i
+        nodemon
+Then open another terminal
+        cd frontend
+        npm i
+        npm start
+Congretulation you succesfully setup
+
 # Data Flow 
 
 ![Backend_Plan](https://github.com/Hyper-ActiveX/Todo-UserAuth/assets/99456220/189dd73a-4927-4572-9d4a-f53ef934691c)
